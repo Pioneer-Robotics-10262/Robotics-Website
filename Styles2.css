@@ -6,7 +6,7 @@ H1 {
 Font-family:  MS sans serif, Tahoma;
 Position: sticky;
 top: 0;
-background-color: RGB(237,28,36);
+background-color: RGB(202,20,19);
 Margin-left: 100px;
 color: white;
 Text-align: center;
@@ -22,7 +22,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 100px;
-  background-color: rgb(237,28,36);
+  background-color: rgb(202,20,19);
   Height: 100%;
 position: fixed;
   overflow: auto;
@@ -72,4 +72,5 @@ margin-left: 110px;
 
 h6{
 Margin-bottom: 100px;
+
 }
