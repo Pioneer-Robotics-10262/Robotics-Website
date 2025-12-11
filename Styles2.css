@@ -7,6 +7,7 @@ Font-family:  MS sans serif, Tahoma;
 Position: sticky;
 top: 0;
 background-color: RGB(202,20,19);
+  font-size: 120%;
 Margin-left: 100px;
 color: white;
 Text-align: center;
@@ -74,3 +75,4 @@ h6{
 Margin-bottom: 100px;
 
 }
+
